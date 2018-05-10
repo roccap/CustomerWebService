@@ -17,7 +17,6 @@ public class AddNewCustomer {
 	@Produces("application/xml")
 	public int addCustomer() {		
 	 
-			
 			return -1;
 	}
 	 
