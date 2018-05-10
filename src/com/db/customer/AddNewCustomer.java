@@ -17,7 +17,7 @@ public class AddNewCustomer {
 	@Produces("application/xml")
 	public int addCustomer() {		
 	 
-			String result = "@Produces(\"application/xml\") Output: \n\nC to F Converter Output: \n\n" + "Bob, ted, ian";
+			
 			return -1;
 	}
 	 
