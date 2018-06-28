@@ -1,5 +1,7 @@
-com\db\customer\AddNewCustomer.class
 com\crunchify\restjersey\CtoFService.class
 com\db\customer\Customer.class
 com\crunchify\restjersey\FtoCService.class
 com\db\customer\CustomerInfo.class
+com\db\customer\AddNewCustomer.class
+com\shares\latestprice\GetLatestPrice.class
+com\db\customer\test\TestCustomer.class

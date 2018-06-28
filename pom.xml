@@ -60,5 +60,15 @@
     	<artifactId>jackson-core</artifactId>
     	<version>2.7.4</version>
 	</dependency>
+	<dependency>
+  		<groupId>junit</groupId>
+  		<artifactId>junit</artifactId>
+  	<version>4.12</version>
+</dependency>
+	<dependency>
+		<groupId>com.yahoofinance-api</groupId>
+		<artifactId>YahooFinanceAPI</artifactId>
+		<version>3.13.0</version>
+	</dependency>
   </dependencies>
 </project>
