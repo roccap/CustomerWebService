@@ -1,3 +1,5 @@
+com\db\customer\AddNewCustomer.class
+com\crunchify\restjersey\CtoFService.class
+com\db\customer\Customer.class
 com\crunchify\restjersey\FtoCService.class
 com\db\customer\CustomerInfo.class
-com\crunchify\restjersey\CtoFService.class
